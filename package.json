@@ -4,7 +4,7 @@
     "boxen-extended": "^0.2.2",
     "luxon": "^3.7.2",
     "ms": "^2.1.3",
-    "nadra-digital-id": "^0.3.7"
+    "nadra-digital-id": "^0.4.0"
   },
   "overrides": {
     "boxen-extended": {
